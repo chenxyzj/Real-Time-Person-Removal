@@ -7,7 +7,7 @@ This code attempts to learn over time the makeup of the background of a video su
 
 This is an experiment. It may not be perfect in all situations.
 
-![disappearing people](https://user-images.githubusercontent.com/4972997/74691149-882fce00-5196-11ea-80bc-f1b9cb3ff275.gif)
+![disappearing people](74691149-882fce00-5196-11ea-80bc-f1b9cb3ff275.gif)
 
 
 ## Live Demos
